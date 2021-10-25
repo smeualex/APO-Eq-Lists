@@ -1,0 +1,21 @@
+Stage: pre-mix
+Channel: LFE
+Stage: post-mix
+Channel: ALL
+# Preamp: -5.01 dB
+Filter: ON LSC Fc 100 Hz Gain 5 dB Q 0.71
+
+Filter: ON PK Fc 180 Hz Gain 2.7 dB Q 0.35
+Filter: ON PK Fc 833.74 Hz Gain -4 dB Q 1.1037
+Filter: ON PK Fc 1320 Hz Gain -1.5 dB Q 3
+Filter: ON PK Fc 1900 Hz Gain 4 dB Q 4
+Filter: ON PK Fc 2500 Hz Gain -1.1 dB Q 4
+Filter: ON PK Fc 3600 Hz Gain -3 dB Q 5
+Filter: ON PK Fc 4500 Hz Gain -5 dB Q 3
+Filter: ON PK Fc 6000 Hz Gain 3.1 dB Q 1.5
+Filter: ON HS Fc 7000 Hz Gain 0 dB Q 0.7
+Filter: ON PK Fc 8000 Hz Gain 0 dB Q 4
+
+
+
+
